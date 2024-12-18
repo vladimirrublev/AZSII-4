@@ -16,4 +16,4 @@
 * Реализовать атаку DeepFool с помощью фреймворка Foolbox.
 * Оценить точность модели на противоречивых примерах и сравнить с результатами на обычных данных.
 
-**3. Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1s7s-xszLa__FOvHmVZMgLIZlleBj6LJX#scrollTo=ekrDxPlKkDEd** 
+** Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1s7s-xszLa__FOvHmVZMgLIZlleBj6LJX#scrollTo=ekrDxPlKkDEd** 
